@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# React.js
+/build
+/.cache
+/.parcel-cache
+/.eslintcache
+/public/*.map
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor & OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependency directories
+frontend/node_modules/
+backend/node_modules/
+
+# Misc
+*.bak
+*.swp
